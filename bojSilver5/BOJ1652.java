@@ -2,7 +2,7 @@ package bojSilver5;
 
 import java.io.*;
 
-public class Main {
+public class BOJ1652 {
 
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
