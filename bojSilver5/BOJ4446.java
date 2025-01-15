@@ -43,7 +43,6 @@ public class BOJ4446 {
         }
     }
 
-
     private static Map<Character, Character> buildShiftMap(char[] chars, int shift) {
         Map<Character, Character> map = new HashMap<>();
         int len = chars.length;
